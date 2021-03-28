@@ -1,0 +1,22 @@
+﻿Installing assembly 'D:\STUDY\malware_mechanism\TH\LAB_1\LAB1_BAI3\LAB1_BAI3\bin\Debug\LAB1_BAI3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\STUDY\malware_mechanism\TH\LAB_1\LAB1_BAI3\LAB1_BAI3\bin\Debug\LAB1_BAI3.InstallLog
+   assemblypath = D:\STUDY\malware_mechanism\TH\LAB_1\LAB1_BAI3\LAB1_BAI3\bin\Debug\LAB1_BAI3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\STUDY\malware_mechanism\TH\LAB_1\LAB1_BAI3\LAB1_BAI3\bin\Debug\LAB1_BAI3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\STUDY\malware_mechanism\TH\LAB_1\LAB1_BAI3\LAB1_BAI3\bin\Debug\LAB1_BAI3.InstallLog
+   assemblypath = D:\STUDY\malware_mechanism\TH\LAB_1\LAB1_BAI3\LAB1_BAI3\bin\Debug\LAB1_BAI3.exe
+Uninstalling assembly 'D:\STUDY\malware_mechanism\TH\LAB_1\LAB1_BAI3\LAB1_BAI3\bin\Debug\LAB1_BAI3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\STUDY\malware_mechanism\TH\LAB_1\LAB1_BAI3\LAB1_BAI3\bin\Debug\LAB1_BAI3.InstallLog
+   assemblypath = D:\STUDY\malware_mechanism\TH\LAB_1\LAB1_BAI3\LAB1_BAI3\bin\Debug\LAB1_BAI3.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.

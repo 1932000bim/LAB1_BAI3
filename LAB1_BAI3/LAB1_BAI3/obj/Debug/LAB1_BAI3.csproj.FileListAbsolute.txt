@@ -1,0 +1,8 @@
+D:\STUDY\malware mechanism\TH\LAB_1\LAB1_BAI3\LAB1_BAI3\bin\Debug\LAB1_BAI3.exe.config
+D:\STUDY\malware mechanism\TH\LAB_1\LAB1_BAI3\LAB1_BAI3\bin\Debug\LAB1_BAI3.exe
+D:\STUDY\malware mechanism\TH\LAB_1\LAB1_BAI3\LAB1_BAI3\bin\Debug\LAB1_BAI3.pdb
+D:\STUDY\malware mechanism\TH\LAB_1\LAB1_BAI3\LAB1_BAI3\obj\Debug\LAB1_BAI3.ProjectInstaller.resources
+D:\STUDY\malware mechanism\TH\LAB_1\LAB1_BAI3\LAB1_BAI3\obj\Debug\LAB1_BAI3.csproj.GenerateResource.cache
+D:\STUDY\malware mechanism\TH\LAB_1\LAB1_BAI3\LAB1_BAI3\obj\Debug\LAB1_BAI3.csproj.CoreCompileInputs.cache
+D:\STUDY\malware mechanism\TH\LAB_1\LAB1_BAI3\LAB1_BAI3\obj\Debug\LAB1_BAI3.exe
+D:\STUDY\malware mechanism\TH\LAB_1\LAB1_BAI3\LAB1_BAI3\obj\Debug\LAB1_BAI3.pdb

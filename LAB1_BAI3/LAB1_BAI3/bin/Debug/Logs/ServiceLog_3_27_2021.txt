@@ -1,0 +1,6 @@
+Service is started at 3/27/2021 10:04:16 AM
+Connected to internet
+Service is stopped at 3/27/2021 10:05:37 AM
+Service is started at 3/27/2021 10:05:53 AM
+No internet connection
+Service is stopped at 3/27/2021 10:06:22 AM
